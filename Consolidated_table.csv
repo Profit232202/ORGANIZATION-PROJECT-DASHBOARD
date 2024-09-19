@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,job_title,salary,Department_Name,Department_Budget,Department_Goals,project_id,project_budget,project_name,status
+1001,Liam,Brown,"Software Engineer",85000,Engineering,1200000,"Develop new products",201,60000,"Website Overhaul",upcoming
+1002,Emma,Taylor,"Marketing Manager",78000,Marketing,800000,"Increase brand awareness",202,45000,"Social Media Strategy",upcoming
+1003,Michael,Johnson,"Data Scientist",95000,Sales,600000,"Boost sales",203,80000,"Product Launch",upcoming
+1004,Emily,Brown,"HR Manager",70000,"Human Resources",400000,"Enhance employee engagement",204,50000,"CRM Integration",completed
+1005,Robert,Williams,"Sales Executive",72000,Sales,600000,"Boost sales",205,70000,"Brand Repositioning",completed
+1006,Linda,Miller,"Operations Manager",80000,Marketing,800000,"Increase brand awareness",206,70000,"Mobile App Development",upcoming
+1007,William,Jones,"Business Analyst",75000,Engineering,1200000,"Develop new products",207,50000,"SEO Optimization",upcoming
+1008,Sophia,Davis,"Product Manager",90000,"Human Resources",400000,"Enhance employee engagement",208,55000,"Customer Support System",completed
+1009,David,Martinez,"IT Specialist",68000,IT,450000,"Improve IT infrastructure",209,30000,"Market Research",completed
+1010,Olivia,Wilson,"Finance Analyst",83000,IT,450000,"Improve IT infrastructure",210,60000,"New Marketing Campaign",upcoming

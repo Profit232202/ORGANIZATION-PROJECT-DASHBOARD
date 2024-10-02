@@ -1,4 +1,4 @@
-# PROJECT MANAGEMENT DASHBOARD
+# PROJECT STATUS DASHBOARD
 # Project Background
 This particular organization is a project management company that manages any kind of organizational pojects worldwide.The company has recorded data on its employees, departments, projects, completed projects, upcoming projects and project assigment that were given for this analysis.This project aimed to help organization gain insight on how to manage their workforce, Understand financial risks and monitor project health more effectively.
 # Meta-data

@@ -40,7 +40,7 @@ This visualized the project budget by project name. It helps to know project nam
 ![Name distribution](https://github.com/user-attachments/assets/5ac165a5-ea61-4f4e-b26c-1415f8c2f8b9)
 
 # Recommendation
-The Human resources is the department with the uderperforming because of its debit capital of -$25K. The organizatinal need to look intor the Human resources department and take a corrective measure.
+Human resources is the department with the uderperforming because of its debit capital of -$25K. The organizational need to look into the Human resources department and take a corrective measure.
 
 
 
